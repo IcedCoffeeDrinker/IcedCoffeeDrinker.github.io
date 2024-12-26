@@ -62,7 +62,7 @@ const CONFIG = {
     mastodon: '',
     researchGate: '',
     facebook: '',
-    instagram: 'https://www.instagram.com/whatever_lndustries/',
+    instagram: 'Whatever_lndustries',
     reddit: '',
     threads: '',
     youtube: '', // example: 'pewdiepie'
@@ -70,7 +70,7 @@ const CONFIG = {
     dribbble: '',
     behance: '',
     medium: '',
-    dev: 'arifszn',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
@@ -85,8 +85,12 @@ const CONFIG = {
   skills: [
     'Python',
     'ROS',
+    'robotics',
+    'computer vision',
+    'data science',
+    'AI development',
+    'competitive programming', 
     '3D modeling',
-    'electric engineering',
     '3D printing',
     'basic web design',
   ],
@@ -163,7 +167,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'Business',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -178,39 +182,8 @@ const CONFIG = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-      'light',
-      'dark',
-      'cupcake',
-      'bumblebee',
-      'emerald',
       'corporate',
-      'synthwave',
-      'retro',
-      'cyberpunk',
-      'valentine',
-      'halloween',
-      'garden',
-      'forest',
-      'aqua',
-      'lofi',
-      'pastel',
-      'fantasy',
-      'wireframe',
-      'black',
-      'luxury',
-      'dracula',
-      'cmyk',
-      'autumn',
       'business',
-      'acid',
-      'lemonade',
-      'night',
-      'coffee',
-      'winter',
-      'dim',
-      'nord',
-      'sunset',
-      'procyon',
     ],
 
     // Custom theme, applied to `procyon` theme
