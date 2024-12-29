@@ -100,6 +100,7 @@ const CONFIG = {
       to: 'Present',
       companyLink: 'https://example.com',
     },
+  ],
   certifications: [
     {
     },
