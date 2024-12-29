@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Philipp J. Haus',
     description: '',
     imageURL: '',
   },
@@ -71,7 +71,7 @@ const CONFIG = {
     behance: '',
     medium: '',
     dev: '',
-    stackoverflow: '', // example: '1/jeff-atwood'
+    stackoverflow: '17789855/Philipp-H.', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
     website: '',
