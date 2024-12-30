@@ -43,7 +43,7 @@ const CONFIG = {
         {
           title: 'Kent AI LAB (K.A.I.L)',
           description:
-            "As co-leader of our school's AI club I organized interactive events for our 56 members, held presentations at other schools, and much more...",
+            "As co-leader of our school's AI club I organized interactive events for our 56 members, held presentations at other schools, and took part in public discussions with experts, so eg. Krystyn Gutu.",
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -51,7 +51,7 @@ const CONFIG = {
         {
           title: 'Robotic Arm',
           description:
-            'At around age 13 I got interested in robotics. This 3D printed robotic arm was my first take on the topic.',
+            'At around age 13 I got interested in robotics. This 3D printed robotic arm was my first take on the topic and served as the test ground for a multiple of subsequent projects.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -67,7 +67,7 @@ const CONFIG = {
         {
           title: 'Kent: Digital Electronics',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'In my year abroad at Kent School I was faced with the opportunity to take engineering classes. In my two semesters of "Digital Electronics", and one semester "Aerospace Engineering" I build an extensive portfolio.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -75,7 +75,7 @@ const CONFIG = {
         {
           title: 'Pwnagotchi',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'The Pwnagotchi open source project introduced me to the world of cybersecurity. After assembling and setting up the device, I was faced with a multiple of software and hardware issues, which I managed to overcome afte many hours of debugging.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -83,7 +83,7 @@ const CONFIG = {
         {
           title: 'CAD Project: Buzzer',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'As a result of my interest in product design, I develoed the "Sound Buzzer". This poject tried to combine the intended function with aesthetic design.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -91,7 +91,7 @@ const CONFIG = {
         {
           title: 'Gameboy Emulator + Display Driver',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Initially intended as a birthday gift for my little brother, my Gameboy Emulator Project cost me well over 50 hours of debugging. I ended up creating my own driver.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -99,7 +99,7 @@ const CONFIG = {
         {
           title: '3D Simulations & Animations',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Due to my interest in Digital Effects I explored learned to create 3D environments in Blender and particularly enjoyed playing with the physics engine.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
