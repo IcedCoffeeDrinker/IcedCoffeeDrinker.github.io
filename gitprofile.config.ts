@@ -254,7 +254,10 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: '- 3D modeling (mechanical) & rendering<br>- coding (mainly python)<br>- electrical / digital electronics<br>- extensive debugging (digital / electrical)',
+      company: `- 3D modeling (mechanical) & rendering
+      - coding (mainly python)
+      - electrical / digital electronics
+      - extensive debugging (digital / electrical)`,
       position: 'Prototyping',
       from: '',
       to: '',
