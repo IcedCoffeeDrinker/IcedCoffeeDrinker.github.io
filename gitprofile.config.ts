@@ -29,7 +29,7 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'Large Projects',
+      header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
@@ -254,11 +254,22 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: `- 3D modeling (mechanical) & rendering<pre>
-      - coding (mainly python)<pre>
-      - electrical / digital electronics<pre>
-      - extensive debugging (digital / electrical)`,
+      company: 'Industrial 3D Design, Stress Simulations, Coding (mainly python), Elctrics, Digital Electronics, Electrical/Digital Debuggin'
       position: 'Prototyping',
+      from: '',
+      to: '',
+      companyLink: '',
+    },
+    {
+      company: 'Data Processing & Visualzation (Python + Matplotlib), basic PyTorch, basic ROS'
+      position: 'Digital / Data Science',
+      from: '',
+      to: '',
+      companyLink: '',
+    },
+    {
+      company: 'Basic Pentesting: WiFi & Websites'
+      position: 'Web Security',
       from: '',
       to: '',
       companyLink: '',
