@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Solar Car Challenge',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'After three semesters of daily work in the workshop, me and my team went to race our selfbuild solar car at the Texas Motor Speedway against teams from all over the US.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -43,7 +43,7 @@ const CONFIG = {
         {
           title: 'Kent AI LAB (K.A.I.L)',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            "As co-leader of our school's AI club I organized interactive events for our 56 members, held presentations at other schools, and much more...",
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -51,7 +51,7 @@ const CONFIG = {
         {
           title: 'Robotic Arm',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'At around age 13 I got interested in robotics. This 3D printed robotic arm was my first take on the topic.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -59,7 +59,7 @@ const CONFIG = {
         {
           title: 'MagicMirror2',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'To stay organized, my 12 year old me decided to build the MagicMirror2 open source project, further modifying the code to create productive digital art.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -261,7 +261,7 @@ const CONFIG = {
       companyLink: '',
     },
     {
-      company: 'Data Processing & Visualzation (Python + Matplotlib), basic PyTorch, basic ROS',
+      company: 'Data Processing & Visualzation (Python + Matplotlib), basic PyTorch, basic ROS (Robot Operating System), Computer Vision',
       position: 'Digital / Data Science',
       from: '',
       to: '',
