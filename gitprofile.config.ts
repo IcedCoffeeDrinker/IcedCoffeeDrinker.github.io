@@ -225,7 +225,7 @@ const CONFIG = {
     instagram: 'Whatever_lndustries',
     reddit: '',
     threads: '',
-    youtube: 'DreamerUnderPinkSky', // example: 'pewdiepie'
+    youtube: 'DreamerUnderPinkSky2691', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
@@ -254,9 +254,9 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: `- 3D modeling (mechanical) & rendering\n
-      - coding (mainly python)\n
-      - electrical / digital electronics\n
+      company: `- 3D modeling (mechanical) & rendering<pre>
+      - coding (mainly python)<pre>
+      - electrical / digital electronics<pre>
       - extensive debugging (digital / electrical)`,
       position: 'Prototyping',
       from: '',
@@ -271,7 +271,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'Gymnasium Eppendorf (Hamburg, Germany)',
-      degree: 'grade 5 to 9',
+      degree: '5th to 9th grade',
       from: '2018',
       to: '2023',
     },
