@@ -71,9 +71,7 @@ const CONFIG = {
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
-        },],
-        header: 'Design & Robotics',
-        projects: [
+        },
         {
           title: 'Pwnagotchi',
           description:
@@ -227,7 +225,7 @@ const CONFIG = {
     instagram: 'Whatever_lndustries',
     reddit: '',
     threads: '',
-    youtube: '', // example: 'pewdiepie'
+    youtube: 'DreamerUnderPinkSky', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
@@ -256,11 +254,11 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: '- 3D modeling (mechanical) & rendering<br>- coding (mainly python)<br>- electrical / digital electronics<br>- extensive debugging (digital / electrical)',
+      position: 'Prototyping',
+      from: '',
+      to: '',
+      companyLink: '',
     },
   ],
   certifications: [
