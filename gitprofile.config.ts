@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'After three semesters of daily work in the workshop, me and my team went to race our selfbuild solar car at the Texas Motor Speedway against teams from all over the US.',
           imageUrl:
-            'https://github.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/tree/main/images/solar_car_early_stage.jpeg',
+            'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/solar_car_early_stage.jpeg',
           link: 'https://example.com',
         },
         {
@@ -53,7 +53,7 @@ const CONFIG = {
           description:
             'At around age 13 I got interested in robotics. This 3D printed robotic arm was my first take on the topic and served as the test ground for a multiple of subsequent projects.',
           imageUrl:
-            'https://github.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/tree/main/images/robotic_arm.jpeg',
+            'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/robotic_arm.jpeg',
           link: 'https://example.com',
         },
         {
@@ -93,7 +93,7 @@ const CONFIG = {
           description:
             'Initially intended as a birthday gift for my little brother, my Gameboy Emulator Project cost me well over 50 hours of debugging. I ended up creating my own driver.',
           imageUrl:
-            'https://github.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/tree/main/images/gameboy_prototyping.jpeg',
+            'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/gameboy_prototyping.jpeg',
           link: 'https://example.com',
         },
         {
