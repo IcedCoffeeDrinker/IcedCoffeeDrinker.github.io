@@ -125,7 +125,7 @@ const CONFIG = {
           description:
             'To harness the full power of image generation models I decided to run various diffusion models locally. This allowed me to modify the algorithms and make use of experimental state-of-the-art modifications',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/astronaut_digital_art.png',
           link: '',
         },
         {
@@ -181,7 +181,7 @@ const CONFIG = {
           description:
             'My first ever IT class project was to build a website for a local business. I settled for my favorite asian restaurant, motivated to spice their website up as much as possible.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/vo_logo.png',
           link: '',
         },
         {
