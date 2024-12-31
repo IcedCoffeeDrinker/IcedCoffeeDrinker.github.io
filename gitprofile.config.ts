@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             "As co-leader of our school's AI club I organized interactive events for our 56 members, held presentations at other schools, and took part in public discussions with experts, so eg. Krystyn Gutu.",
           imageUrl:
-            'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/',
+            'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/KAIL_presentation.png',
           link: '',
         },
         {
@@ -165,7 +165,7 @@ const CONFIG = {
           description:
             "To get down all the names of my peers during my year abroad I built a programm that would quiz me on a person's name based on a picture that it scraped from the school's website.",
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/name_guesser.png',
           link: '',
         },
         {
@@ -189,7 +189,7 @@ const CONFIG = {
           description:
             'At around age 9 I developed a fascination for binary logic. I replicated full- and half adders, encoders, decoders, memory units, and displays in Minecraft.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/minecraft_memory_cell.png',
           link: '',
         },
         {
