@@ -134,7 +134,7 @@ const CONFIG = {
             'Meant to earn me some extra pocket money, this project creates a conversation between up to ten AI agents debating about topic, content, and images. Hundreds of artilces can be generated in an hour.',
           imageUrl:
             'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/article_bot_logfile.png',
-          link: '',
+          link: 'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/astronaut_digital_art.png',
         },
         {
           title: 'Personalized Local AI Assistant',
