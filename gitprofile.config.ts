@@ -121,9 +121,9 @@ const CONFIG = {
           link: 'https://example.com',
         },
         {
-          title: 'To harness the full power of image generation models I decided to run various diffusion models locally. This allowed me to modify the algorythms and make use of experimental state-of-the-art modifications.',
+          title: 'Local Diffusion Models',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'To harness the full power of image generation models I decided to run various diffusion models locally. This allowed me to modify the algorythms and make use of experimental state-of-the-art modifications',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
