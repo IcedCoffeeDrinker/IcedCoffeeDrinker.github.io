@@ -107,7 +107,7 @@ const CONFIG = {
         {
           title: '3D Projection',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Fascinated by the mathematics of 3D projection I decided to build a render engine that displays 3D model files (.obj, .stl) as wireframes. I later taught the mathematical concepts of ortographic and perspective projection to my peers.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -115,13 +115,13 @@ const CONFIG = {
         {
           title: 'Generative Art & Perlin Noise',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Inspired by aesthetic NFT art I created various generative art, often making use of fractal-like structures, beautiful colors, and perlin-noise. I was particularly interested in flow maps.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
         },
         {
-          title: 'Diffusion Models Running Locally',
+          title: 'To harness the full power of image generation models I decided to run various diffusion models locally. This allowed me to modify the algorythms and make use of experimental state-of-the-art modifications.',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
@@ -131,7 +131,7 @@ const CONFIG = {
         {
           title: 'AI Article Bot (SEO)',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Meant to earn me some extra pocket money, this project creates a conversation between up to ten AI agents debating about topic, content, and images. Hundreds of artilces can be generated in an hour.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -139,7 +139,7 @@ const CONFIG = {
         {
           title: 'Personalized Local AI Assistant',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'High subsription fees for major AI agents led me to build a free local system, tuned to my preferences. My assistant has multiple personalities to choose from and chat-independent memory.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -147,7 +147,7 @@ const CONFIG = {
         {
           title: 'First AI Project: Guessing Sequences',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'When I was 10 years old I learned how to code a sequence guessing AI through an Indian tech-tutorial. This taught me the basics of neurons and statistical predictions.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -155,7 +155,7 @@ const CONFIG = {
         {
           title: 'Ways to Calculate PI',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Fascinated by the random occurences of pi in the mathematical world I build various programs to estimate pi in interesting ways.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -163,7 +163,7 @@ const CONFIG = {
         {
           title: 'Classmate Name Trainer',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            "To get down all the names of my peers during my year abroad I built a programm that would quiz me on a person's name based on a picture that it scraped from the school's website.",
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -171,7 +171,7 @@ const CONFIG = {
         {
           title: 'Scratch 3D Map',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Feeling limited by the 2D canvas of scratch, I decided to build a 3D maze game as a school project. My IT teacher was a little supriesed.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -179,7 +179,7 @@ const CONFIG = {
         {
           title: 'Coding a Restaurant Homepage',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'My first ever IT class project was to build a website for a local business. I setelt for my favorite asian restaurant, motivated to spice their website up as much as possilbe.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -187,7 +187,7 @@ const CONFIG = {
         {
           title: 'Minecraft Binary Logic',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'At around age 9 I developed a fascination for binary logic. I replicated full- and half adders, encoders, decoders, memory units, and displays in Minecraft.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -195,7 +195,7 @@ const CONFIG = {
         {
           title: 'Mining Crypto on Raspberry Pi',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'As a joke I mined Monero on my Raspberry Pi in 7th grade. My parents said they would pay the electricity bill for three months, allowing me to dive deeper into the topic.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -203,7 +203,7 @@ const CONFIG = {
         {
           title: 'Linux & MacOS Modifications',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'As a huge fan of aesthetic design and productivity modifications, I heavily modded my Mac and Linux devices. All my devices are now very fancy looking, though their productivity is questionable.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
