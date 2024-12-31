@@ -43,7 +43,7 @@ const CONFIG = {
         {
           title: 'Kent AI LAB (K.A.I.L)',
           description:
-            "As co-leader of our school's AI club I organized interactive events for our 56 members, held presentations at other schools, and took part in public discussions with experts, so eg. Krystyn Gutu.",
+            "As co-leader of our school's AI club I organized interactive events for our 56 members, held presentations at other schools, and took part in public discussions with experts, so e.g. with Krystyn Gutu.",
           imageUrl:
             'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/KAIL_presentation.png',
           link: '',
@@ -51,7 +51,7 @@ const CONFIG = {
         {
           title: 'Robotic Arm',
           description:
-            'At around age 13 I got interested in robotics. This 3D printed robotic arm was my first take on the topic and served as the test ground for a multiple of subsequent projects.',
+            'At around age 13 I got interested in robotics. This 3D printed robotic arm was my first take on the topic and served as the test ground for multiple subsequent projects.',
           imageUrl:
             'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/robotic_arm.jpeg',
           link: '',
@@ -75,7 +75,7 @@ const CONFIG = {
         {
           title: 'Pwnagotchi',
           description:
-            'The Pwnagotchi open source project introduced me to the world of cybersecurity. After assembling and setting up the device, I was faced with a multiple of software and hardware issues, which I managed to overcome afte many hours of debugging.',
+            'The Pwnagotchi open source project introduced me to the world of cybersecurity. After assembling and setting up the device, I was faced with multiple software and hardware issues, which I managed to overcome after many hours of debugging.',
           imageUrl:
             'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/pwnagotchi_final.png',
           link: 'https://pwnagotchi.ai/',
@@ -83,7 +83,7 @@ const CONFIG = {
         {
           title: 'CAD Project: Buzzer',
           description:
-            'As a result of my interest in product design, I develoed the "Sound Buzzer". This poject tried to combine the intended function with aesthetic design.',
+            'As a result of my interest in product design, I developed the "Sound Buzzer". This project tried to combine the intended function with aesthetic design.',
           imageUrl:
             'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/CAD_buzzer.png',
           link: '',
@@ -123,7 +123,7 @@ const CONFIG = {
         {
           title: 'Local Diffusion Models',
           description:
-            'To harness the full power of image generation models I decided to run various diffusion models locally. This allowed me to modify the algorythms and make use of experimental state-of-the-art modifications',
+            'To harness the full power of image generation models I decided to run various diffusion models locally. This allowed me to modify the algorithms and make use of experimental state-of-the-art modifications',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: '',
@@ -131,7 +131,7 @@ const CONFIG = {
         {
           title: 'AI Article Bot (SEO)',
           description:
-            'Meant to earn me some extra pocket money, this project creates a conversation between up to ten AI agents debating about topic, content, and images. Hundreds of artilces can be generated in an hour.',
+            'Meant to earn me some extra pocket money, this project creates a conversation between up to ten AI agents debating about topic, content, and images. Hundreds of articles can be generated in an hour.',
           imageUrl:
             'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/article_bot_logfile.png',
           link: 'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/astronaut_digital_art.png',
@@ -139,7 +139,7 @@ const CONFIG = {
         {
           title: 'Personalized Local AI Assistant',
           description:
-            'High subsription fees for major AI agents led me to build a free local system, tuned to my preferences. My assistant has multiple personalities to choose from and chat-independent memory.',
+            'High subscription fees for major AI agents led me to build a free local system, tuned to my preferences. My assistant has multiple personalities to choose from and chat-independent memory.',
           imageUrl:
             'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/AI_assistant.png',
           link: '',
@@ -155,7 +155,7 @@ const CONFIG = {
         {
           title: 'Ways to Calculate PI',
           description:
-            'Fascinated by the random occurences of pi in the mathematical world I build various programs to estimate pi in interesting ways.',
+            'Fascinated by the random occurrences of pi in the mathematical world I build various programs to estimate pi in interesting ways.',
           imageUrl:
             'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/guessing_pi.png',
           link: '',
@@ -163,7 +163,7 @@ const CONFIG = {
         {
           title: 'Classmate Name Trainer',
           description:
-            "To get down all the names of my peers during my year abroad I built a programm that would quiz me on a person's name based on a picture that it scraped from the school's website.",
+            "To get down all the names of my peers during my year abroad I built a program that would quiz me on a person's name based on a picture that it scraped from the school's website.",
           imageUrl:
             'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/name_guesser.png',
           link: '',
@@ -171,7 +171,7 @@ const CONFIG = {
         {
           title: 'Scratch 3D Map',
           description:
-            'Feeling limited by the 2D canvas of scratch, I decided to build a 3D maze game as a school project. My IT teacher was a little supriesed.',
+            'Feeling limited by the 2D canvas of scratch, I decided to build a 3D maze game as a school project. My IT teacher was a little surprised.',
           imageUrl:
             'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/scratch_raycasting.png',
           link: 'https://scratch.mit.edu/projects/568312991/',
@@ -179,7 +179,7 @@ const CONFIG = {
         {
           title: 'Coding a Restaurant Homepage',
           description:
-            'My first ever IT class project was to build a website for a local business. I setelt for my favorite asian restaurant, motivated to spice their website up as much as possilbe.',
+            'My first ever IT class project was to build a website for a local business. I settled for my favorite asian restaurant, motivated to spice their website up as much as possible.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: '',
@@ -236,7 +236,7 @@ const CONFIG = {
     telegram: '',
     website: '',
     phone: '',
-    email: 'philipp.haus@ilcoud.com',
+    email: 'philipp.haus@icoud.com',
   },
   resume: {
     fileUrl:
@@ -254,14 +254,14 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Industrial 3D Design, Stress Simulations, Coding (mainly python), Elctrics, Digital Electronics, Electrical/Digital Debuggin',
+      company: 'Industrial 3D Design, Stress Simulations, Coding (mainly Python), Electrics, Digital Electronics, Electrical/Digital Debugging',
       position: 'Prototyping',
       from: '',
       to: '',
       companyLink: '',
     },
     {
-      company: 'Data Processing & Visualzation (Python + Matplotlib), basic PyTorch, basic ROS (Robot Operating System), Computer Vision',
+      company: 'Data Processing & Visualization (Python + Matplotlib), basic PyTorch, basic ROS (Robot Operating System), Computer Vision',
       position: 'Digital / Data Science',
       from: '',
       to: '',
