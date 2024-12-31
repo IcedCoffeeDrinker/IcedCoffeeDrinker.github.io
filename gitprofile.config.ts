@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'After three semesters of daily work in the workshop, me and my team went to race our selfbuild solar car at the Texas Motor Speedway against teams from all over the US.',
           imageUrl:
-            'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/solar_car_early_stage.png',
+            'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/solar_car_prototyping.png',
           link: 'https://www.solarcarchallenge.org/challenge/',
         },
         {
