@@ -240,7 +240,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/CV_Philipp_Haus.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
