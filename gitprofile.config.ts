@@ -78,7 +78,7 @@ const CONFIG = {
             'The Pwnagotchi open source project introduced me to the world of cybersecurity. After assembling and setting up the device, I was faced with a multiple of software and hardware issues, which I managed to overcome afte many hours of debugging.',
           imageUrl:
             'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/pwnagotchi_final.png',
-          link: '',
+          link: 'https://pwnagotchi.ai/',
         },
         {
           title: 'CAD Project: Buzzer',
