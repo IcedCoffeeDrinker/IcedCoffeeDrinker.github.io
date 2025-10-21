@@ -33,6 +33,14 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
+          title: 'Lucy AI Motivator (work in progress)',
+          description:
+            "Lucy is an AI assistant that calls you daily on your mobile phone number to ensure that you keep aligned with your goals. CSM 1B used for voice, simple RAG for memory, SFT used to create personality, Python for backend.",
+          imageUrl:
+            'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/lucy_ai_demo.png',
+          link: 'https://lucy-daily-drive.lovable.app/',
+        },
+        {
           title: 'Solar Car Challenge',
           description:
             'After three semesters of daily work in the workshop, me and my team went to race our selfbuild solar car at the Texas Motor Speedway against teams from all over the US.',
@@ -47,6 +55,14 @@ const CONFIG = {
           imageUrl:
             'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/KAIL_presentation.png',
           link: '',
+        },
+        {
+          title: 'SaaS Insight Engine',
+          description:
+            "Built a B2B SaaS with friends at NYU that aggregates profitable SaaS product ideas by scraping recent Reddit posts, extracting pain points, and running automated market analysis via the Google Keywords API.",
+          imageUrl:
+            'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/images/SaaS_Insight_Engine.png',
+          link: 'saas-engine.com',
         },
         {
           title: 'Robotic Arm',
