@@ -296,6 +296,12 @@ const CONFIG = {
       institution: 'Helene Lange (Hamburg, Germany)',
       degree: 'IB + Abitur',
       from: '2024',
+      to: '',
+    },
+    {
+      institution: 'Cambridge International A-Levels',
+      degree: 'Computer Science, Physic, Maths, Further Maths',
+      from: '2025',
       to: '2026',
     },
   ],
