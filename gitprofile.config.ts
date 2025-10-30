@@ -233,7 +233,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: '',
+    linkedin: 'https://www.linkedin.com/in/philipp-j-haus/',
     twitter: '',
     mastodon: '',
     researchGate: '',
@@ -256,7 +256,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/CV_Philipp_Haus.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://raw.githubusercontent.com/IcedCoffeeDrinker/IcedCoffeeDrinker.github.io/main/Philipp_Haus_Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
